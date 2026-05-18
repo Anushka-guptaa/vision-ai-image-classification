@@ -1,7 +1,7 @@
 # Vision-AI-Image-Classification
 A comprehensive 5-day deep learning bootcamp focusing on end-to-end *computer vision pipeline* for classifying images using *Convolutional Neural Networks (CNNs)* and *Transfer Learning (MobileNetV2)*, trained on the MNIST, CIFAR-10 and Cats vs Dogs datasets.
 The project demonstrates a complete AI workflow — from data preprocessing and augmentation to model evaluation and visualisation(ROC curve, confusion matrix, training curves) — built in Python using TensorFlow/Keras.
-## 📌 Project Overview
+## Project Overview
 This project explores image recognition using Convolutional Neural Networks across three different datasets:
 - *MNIST*: Handwritten digit recognition
 - *CIFAR-10*: Object classification (10 categories)
